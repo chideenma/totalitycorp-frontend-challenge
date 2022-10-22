@@ -9,7 +9,7 @@ Recreated the homepage of Starbucks' website with a responsive mobile-friendly l
 3. Javascript
 
 ## Demo:
-The demo of the clone can be seen at [here](https://totalitycorp-frontend-challenge-88peecm2f-chideenma.vercel.app/).
+The project is deployed at Vercel and the demo of the clone can be seen at [here](https://totalitycorp-frontend-challenge-88peecm2f-chideenma.vercel.app/).
 
 
 
